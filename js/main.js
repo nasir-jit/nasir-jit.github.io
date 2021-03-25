@@ -10,17 +10,18 @@ var info = {
     "github":"https://github.com/nasir-jit",
 	"work_experience": [
 		{
-			"work_title": "Frontend Developer",
-			"company_name": "",
-			"company_link": "",
-			"description": "There I have worked on multiple web development projects and leaned new technologies and skills which will be an asset in the future",
-		},
-		{
 			"work_title": "Backend Developer",
 			"company_name": "JIT Inspire Pvt Ltd",
 			"company_link": "https://www.jitinspire.com/",
 			"description": "In a startup company.I have worked on multiple projects there. There I worked on technologies like HTML & CSS, Bootstrap etc, and There I got to learn a lot in a very short time.",
 		},
+		{
+			"work_title": "Frontend Developer",
+			"company_name": "",
+			"company_link": "",
+			"description": "There I have worked on multiple web development projects and leaned new technologies and skills which will be an asset in the future",
+		},
+		
 	],
 	"education":[
 		{
@@ -234,7 +235,7 @@ var educationTemplate="";
 					
 					for(var edu=0;edu<educationInfo.length;edu++)
 					{
-						educationTemplate+=`<li class="timeline-inverted animate-box >
+						educationTemplate+=`<li class="timeline-inverted animate-box" >
 						<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
 						<div class="timeline-panel">
 							<div class="timeline-heading">
