@@ -13,7 +13,7 @@ var info = {
 			"work_title": "Backend Developer",
 			"company_name": "JIT Inspire Pvt Ltd",
 			"company_link": "https://www.jitinspire.com/",
-			"description": "It is a startup company.I am working there since March-2020. I have worked on multiple projects. I have worked on technologies like Node.js ,php & some aws services like lambda,cloudWatch,apiGateway,cognito,cloudFront etc, Sharp minded guy : got to learn a lot in a very short period of time.",
+			"description": "It is a startup company.I am working there since March-2020. I have worked on multiple projects.  Worked on technologies like Node.js ,php & some aws services like lambda,cloudWatch,apiGateway,cognito,cloudFront etc, Sharp minded guy : got to learn a lot in a very short period of time.",
 		},
 	],
 	"education":[
