@@ -26,7 +26,7 @@ var info = {
 			"course_title":"Master's Degree",
 			"institute_name":"Vikrant Group of Institutions(VITM)",
 			"course_name":"I am persuing my master's degree in this institute. My course is Cyber Security",
-		}
+		},
 	]
 
 
