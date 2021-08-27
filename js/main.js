@@ -3,8 +3,8 @@ var info = {
     "title":"Backend developer",
     "email": "Hussainnasir2805@gmail.com",
     "address":"Mhow, Madhya Pradesh, India",
-    "about_me":"I'm a frontend developer, I am omnivert and I love riding bike and listening to music. I love to learn new things and discover the world.",
-    "instagram":"",
+    "about_me":"I'm a Backend developer, I am omnivert and I love to ride bike and explore new challenges. Have a desire to work in a fast-paced and challenging environment.",
+    "instagram":"https://www.instagram.com/tribal_chief28/",
     "linkedin": "https://www.linkedin.com/in/nasir-hussain-081a41183",	
     "twitter":"#",
     "github":"https://github.com/nasir-jit",
@@ -13,21 +13,20 @@ var info = {
 			"work_title": "Backend Developer",
 			"company_name": "JIT Inspire Pvt Ltd",
 			"company_link": "https://www.jitinspire.com/",
-			"description": "In a startup company.I have worked on multiple projects there. There I worked on technologies like HTML & CSS, Bootstrap etc, and There I got to learn a lot in a very short time.",
+			"Working_Since": "March 2020",
+			"description": "In a startup company.I have worked on multiple projects there. There I worked on technologies like Node.js & some aws services like lambda,cloudWatch,apiGateway,cognito etc, and There I got to learn a lot in a very short time.",
 		},
-		{
-			"work_title": "Frontend Developer",
-			"company_name": "",
-			"company_link": "",
-			"description": "There I have worked on multiple web development projects and leaned new technologies and skills which will be an asset in the future",
-		},
-		
 	],
 	"education":[
 		{
 			"course_title":"Bachelors Degree",
 			"institute_name":"Sushila Devi Bansal College of Engineering",
 			"course_name":"I did my bachelor's degree in this institute. My course was Computer Science Engineering",
+		},
+		{
+			"course_title":"Master's Degree",
+			"institute_name":"Vikrant Group of Institutions(VITM)",
+			"course_name":"I am persuing my master's degree in this institute. My course is Cyber Security",
 		}
 	]
 
