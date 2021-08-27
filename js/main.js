@@ -22,11 +22,11 @@ var info = {
 			"institute_name":"Sushila Devi Bansal College of Engineering",
 			"course_name":"I did my bachelor's degree in this institute. My course was Computer Science Engineering",
 		},
-		{
-			"course_title":"Master's Degree",
-			"institute_name":"Vikrant Group of Institutions(VITM)",
-			"course_name":"I am persuing my master's degree in this institute. My course is Cyber Security",
-		},
+		// {
+		// 	"course_title":"Master's Degree",
+		// 	"institute_name":"Vikrant Group of Institutions(VITM)",
+		// 	"course_name":"I am persuing my master's degree in this institute. My course is Cyber Security",
+		// },
 	]
 
 
