@@ -24,7 +24,6 @@ var info = {
 		},
 	]
 
-
 }
 
 var workHTMLTemplate="";
